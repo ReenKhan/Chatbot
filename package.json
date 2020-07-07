@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "This is a chance to test es6 with node 9.3",
   "main": "index.js",
+  "engines": {
+    "node": "12.x",
+    "npm": "6.x"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js",
@@ -25,6 +29,6 @@
   },
   "homepage": "https://github.com/rhildred/es6test#readme",
   "dependencies": {
-    "express": "*"
+    "express": "^4.17.1"
   }
 }
