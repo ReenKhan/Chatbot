@@ -1,4 +1,14 @@
-My chatbot is an application I created for my mobile app development course taught by Richard Hildred. The UI of the application and some base codes were given by Richard Hildred to modify and use. 
+WELCOME TO MY CHATBOT
+
+AUTHOR:
+Shireen khan
+
+
+*APP DESCRIPTION:*
+My chatbot is an application I created for my mobile app development course taught by Richard Hildred. The UI of the application and some base codes were given by Richard Hildred to modify and use. It is an interactive application which requires user to input certain data to narrate a story.
+
+
+*SOME USER INSTRUCTIONS:*
 
 *How to run this project?*
 
